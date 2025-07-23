@@ -3,11 +3,11 @@
 
 Este repositorio contiene todos los detalles sobre la creación y configuración de un **servidor de laboratorio** utilizando Proxmox, Kubernetes y diversas herramientas de seguridad y monitoreo. El objetivo es crear un entorno virtualizado y seguro para aprender sobre administración de sistemas, redes, ciberseguridad y automatización.
 
-## 🚀 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto tiene como objetivo montar un laboratorio de ciberseguridad y administración de sistemas sobre una infraestructura virtualizada utilizando **Proxmox VE**. A través de diversas máquinas virtuales, se desplegarán servicios, aplicaciones y herramientas como Kubernetes, herramientas de seguridad, monitoreo, y más.
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - **Administración de Servidores**: Crear y gestionar un servidor virtualizado con Proxmox.
 - **Orquestación con Kubernetes**: Desplegar un clúster de Kubernetes con múltiples nodos para ejecutar servicios y aplicaciones.
@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo montar un laboratorio de ciberseguridad y admi
 - **Monitoreo**: Configurar herramientas de monitoreo como Grafana y Prometheus para asegurar la infraestructura.
 - **Automatización**: Usar herramientas como Ansible para la automatización de tareas.
   
-## 🛠️ Requisitos del Proyecto
+## Requisitos del Proyecto
 
 ### Hardware:
 
@@ -34,7 +34,7 @@ Este proyecto tiene como objetivo montar un laboratorio de ciberseguridad y admi
 - **Grafana y Prometheus**: Para monitoreo de la infraestructura.
 - **Ansible**: Para la automatización de configuraciones.
 
-## 🔧 Instalación
+## Instalación
 
 ### 1. Instalación de Proxmox VE
 
@@ -76,18 +76,18 @@ Este proyecto tiene como objetivo montar un laboratorio de ciberseguridad y admi
 1. Cree una VM para **Ansible Controller**.
 2. Configure **GitLab CI** o **Jenkins** para automatizar tareas y despliegues.
 
-## 📜 Documentación de Configuración
+## Documentación de Configuración
 
 Cada paso y configuración realizada está documentada en los archivos de este repositorio. Si tienes alguna pregunta o sugerencia, no dudes en abrir un **issue**.
 
-## 📚 Formación y Certificaciones
+## Formación y Certificaciones
 
 Este proyecto también forma parte de mi proceso de aprendizaje en el ámbito de la **ciberseguridad** y la **administración de sistemas**. Las siguientes certificaciones están en proceso:
 
 - **CC (ISC2)**: Preparación para la certificación **Certified Cloud Security Professional (CCSP)**.
 - **ACP 120 y 620**: Certificación en Google Cloud.
 
-## 📝 Licencia
+## Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Puedes usarlo, modificarlo y distribuirlo, siempre y cuando se dé el crédito adecuado.
 
