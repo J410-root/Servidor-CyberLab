@@ -94,4 +94,4 @@ Este proyecto está bajo la **Licencia MIT**. Puedes usarlo, modificarlo y distr
 ---
 
 Si tienes alguna duda o deseas contribuir, no dudes en abrir un **issue** o hacer un **pull request**.
-![image](https://github.com/user-attachments/assets/cc6c5955-1012-4f91-a574-6c7a9f14e65e)
+
